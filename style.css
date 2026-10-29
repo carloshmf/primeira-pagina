@@ -1,0 +1,64 @@
+body {                 /* estilo para o corpo da página*/
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f2f5;
+    margin: 10px;
+    padding: 20px; /* Espaço interno para a imagem não colar nas bordas */
+}
+
+/* Alinha as colunas lado a lado perfeitamente pelo topo */
+.linha {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+/* Empilha a imagem em cima e o link logo abaixo centralizado */
+.linha div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff; /* Fundo branco atrás de cada bloco */
+    border: 1px solid #c7b7b7; /* Uma bordinha fina e discreta */
+    border-radius: 12px;       
+    padding: 15px;             
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* Sombra suave para destacar do fundo */
+}
+
+/* PADRONIZA O TAMANHO EXATO DE TODAS AS IMAGENS */
+.linha img {
+    width: 500px;         
+    height: 300px;        
+    object-fit: cover;    /* Preenche o espaço sem distorcer a imagem */
+    border-radius: 10px; /* Cantos arredondados */
+    box-shadow: 2px 4px 8px rgba(5, 0, 0, 0.1); /* uma pequena margem em volta da imagem */
+    margin-bottom: 8px;
+}
+
+/* Estilo para os links */
+a {
+    color: #0c24aa;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;} /* deixa sublinhado quando passamos o mouse pelo link*/
+h1 {                       /* estilo para o título da página */
+    color: #203e5c;
+    font-size: 32px;  
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px; 
+}
+.linha h1 {
+    font-size: 20px; 
+    color: #333333;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-transform: none; /* Mantém as letras normais sem forçar maiúsculas */
+    letter-spacing: normal;
+}

@@ -17,22 +17,22 @@ O projeto utiliza uma estrutura limpa e organizada em **HTML5** e **CSS3**, apli
 Abaixo está a lista dos sites favoritos integrados nesta página:
 
 1. **Google**
-   * **Sempre uso o google para pesquisas gerais** *Seja para uma pesquisa avançada ou mesmo pra tirar uma dúvida rápida*
+   * **Sempre uso o google para pesquisas gerais.** *Seja para uma pesquisa avançada ou mesmo pra tirar uma dúvida rápida*
    
 2. **Curso em Vídeo**
-   * **Onde eu comecei a conhecer sobre programação** *Sem dúvidas eu acho o melhor site para iniciantes, o Professor Gustavo é ótimo nas explicações*
+   * **Onde eu comecei a conhecer sobre programação.** *Sem dúvidas eu acho o melhor site para iniciantes, o Professor Gustavo é ótimo nas explicações*
 
 3. **Tutoriais BR**
-   * **Uso para baixar alguns jogos antigos e matar sentir a noltalgia** *conheci através de um canal (michell games BR)*
+   * **Uso para baixar alguns jogos antigos e matar sentir a noltalgia.** *Conheci através de um canal (michell games BR)*
 
 4. **DeepL**
-   * **O tradutor mais confiável que eu já usei** *me ajuda em todas as dúvidas e me dá algumas alternativas*
+   * **O tradutor mais confiável que eu já usei.** *Me ajuda em todas as dúvidas e me dá algumas alternativas*
 
 5. **(Animes Online)**
-   * **O site que uso para assistir animes** *embora tenha alguns anúncios chatos, acompanho alguns animes a algum tempo já no site*
+   * **O site que uso para assistir animes.** *Embora tenha alguns anúncios chatos, acompanho alguns animes a algum tempo já no site*
 
 6. **Gemini**
-   * **Eu acho que é o meu ponto de apoio em quase tudo, porque todas as dúvidas mais complexas que eu tenho passam por ele**
+   * **Eu acho que é o meu ponto de apoio em quase tudo. Todas as dúvidas mais complexas que eu tenho passam por ele**
 
 ---
 
